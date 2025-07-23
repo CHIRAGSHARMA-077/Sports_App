@@ -35,13 +35,20 @@ MainActivity
 
 | Static Header and First Few Sports | Scrolled View (More Sports) |
 |------------------------------------|------------------------------|
-| ![Screenshot 1](./screenshots/screenshot1.png) | ![Screenshot 2](./screenshots/screenshot2.png) |
+| ![Screenshot 1]
 
-## Screen Recording
 
-To see the app in action, watch the screen recording:
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/d13fd830-42d1-4b16-9085-48170485d23e" />
 
-[▶️ Click here to view the screen recording](https://drive.google.com/drive/my-drive)
+
+
+| ![Screenshot 2] |
+
+
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b055251a-0d4e-4283-b05e-1d76a17e0f12" />
+
+
+
 
 ## How It Works
 
